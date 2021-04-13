@@ -10,7 +10,7 @@ This repository is in active development, with new material being pushed on a we
 For the sake of convenience, I recommend using our own [JupyterHub server](https://worker02.chcaa.au.dk/jupyter/hub/login) for development purposes. To import my repository you can use the following github link: 
 
 ```
-git clone https://github.com/RasmusVestiH/RV_cds_visual.git
+https://github.com/RasmusVestiH/RV_cds_visual.git
 ```
 
 
